@@ -1,0 +1,53 @@
+appended 5
+5  
+
+appended 20
+5  20  
+
+appended 12
+5  20  12  
+
+appended 37
+5  20  12  37  
+
+added 7 at position 3
+5  20  7  12  37  
+
+added 19 at position 1
+19  5  20  7  12  37  
+
+deleted item at position 3
+19  5  7  12  37  
+
+deleted item at position 1
+5  7  12  37  
+
+added 44 at position 1
+44  5  7  12  37  
+
+added 22 at position 2
+44  22  5  7  12  37  
+
+deleted item at position 6
+44  22  5  7  12  
+
+swapped 3 and 5
+44  22  12  7  5  
+
+list reversed
+5  7  12  22  44  
+
+swapped 1 and 3
+12  7  5  22  44  
+
+swapped 3 and 4
+12  7  22  5  44  
+
+swapped 2 and 2
+12  7  22  5  44  
+
+list cleared
+The list is empty. 
+
+list reversed
+The list is empty. 
